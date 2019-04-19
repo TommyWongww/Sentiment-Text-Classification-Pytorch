@@ -7,8 +7,8 @@ answer: you can get popular models that used for Text-classification,implementin
 answer: this project is used for people who get started for pytorch and text-classification work for not very long time,you can learn the codes to try these models,in this case you can also implement some new models for this project to help more new-beginers.
 
 # Requirements
-## Python==3.6.6
-## PyTorch==0.4.0
-## torchtext==0.2.3
+Python==3.6.6  
+PyTorch==0.4.0  
+torchtext==0.2.3  
 
 # Have Fun.
